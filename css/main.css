@@ -18,7 +18,7 @@ body .gameboy {
   align-items: center;
   justify-content: center;
   width: 350px;
-  height: 550px;
+  height: 580px;
 }
 body .gameboy .base {
   position: relative;
@@ -33,7 +33,7 @@ body .gameboy .base .pantalla {
   display: flex;
   justify-content: center;
   width: 85%;
-  height: 45%;
+  height: 40%;
   margin: 25px;
   padding: 30px;
   background-color: #5c5b5b;
